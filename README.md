@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 
-This is a line of test that decribes me
+This is a line of text that decribes me
